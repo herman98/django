@@ -3,7 +3,7 @@
 Training Django for Beginner
 -------------------------------
 
-- Django is python web framework 
+- Django is python web framework
   * Server side rendering
   * MVC or MVVC (Model View-Model View and Controller)
     - Model: DB Model (using ORM)
@@ -12,11 +12,11 @@ Training Django for Beginner
     - Controller: Views.py
   * ORM : SqlAlchemy custom
     - Database connection support:
-      	# PostgreSQL **
-	    # MariaDB
-	    # MySQL
-	    # Oracle
-	    # SQLite *
+        - PostgreSQL **
+	    - MariaDB
+	    - MySQL
+	    - Oracle
+        - SQLite *
    * Backend (REST API/ GraphQL)
    * Frontend (CRM/CMS, Web App:e-commerce, social media)
      
